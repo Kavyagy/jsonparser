@@ -14,6 +14,7 @@ sudo apt-get install python3-pip
 sudo -H pip3 install pandas
 sudo -H pip3 install simplejson
 
+
 #for windows
 pip install pandas
 pip install simplejson
@@ -30,7 +31,7 @@ pip install simplejson
 To run the project make sure the files
  "New Lead .html" and "radiusagentTest.py" are in same directory
 
-run the file 
+run the file in the terminal as
 python radiusagentTest.py 
 
 PS: the source code was tested in windows environment
